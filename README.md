@@ -4,10 +4,11 @@
 * Data manipulation and data wrangling was used with packages like numpy and pandas
 * Data visualization was made to easily get insight of the data using matplotlib and seaborn
 
-The initial problem came from: https://fivethirtyeight.com/features/fandango-movies-ratings/ and the data can be accessed on 538's github: https://github.com/fivethirtyeight/data.
+The initial problem came from: https://fivethirtyeight.com/features/fandango-movies-ratings/ 
+The data can be accessed on 538's github: https://github.com/fivethirtyeight/data.
 
 ## Code and Resources Used 
-**Python Version:** 3.7  
+**Python Version:** 3.10.4  
 **Packages:** pandas, numpy, sklearn, matplotlib, seaborn
 
 ## Conclusion
