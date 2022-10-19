@@ -12,4 +12,4 @@ The data can be accessed on 538's github: https://github.com/fivethirtyeight/dat
 **Packages:** pandas, numpy, sklearn, matplotlib, seaborn
 
 ## Conclusion
-The data analytics clearly showed that movies on the Fandango site usually have higher rating than on any other site. This can happen in order to sell more tickets on the website.
+The data analysis clearly showed that movies on the Fandango site usually have higher rating than on any other site. This can happen in order to sell more tickets on the website.
